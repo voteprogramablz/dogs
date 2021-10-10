@@ -5,7 +5,7 @@ import { useLocation } from "react-router";
 
 const UserHeader = () => {
   const [title, setTitle] = React.useState("");
-  const { pathname } = useLocation()
+  const { pathname } = useLocation();
 
   React.useEffect(() => {
     switch (pathname) {
