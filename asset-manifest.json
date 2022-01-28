@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/dogs/static/css/main.c5a17302.chunk.css",
+    "main.js": "/dogs/static/js/main.77940e87.chunk.js",
+    "main.js.map": "/dogs/static/js/main.77940e87.chunk.js.map",
+    "runtime-main.js": "/dogs/static/js/runtime-main.2bc80fa2.js",
+    "runtime-main.js.map": "/dogs/static/js/runtime-main.2bc80fa2.js.map",
+    "static/js/2.5846242e.chunk.js": "/dogs/static/js/2.5846242e.chunk.js",
+    "static/js/2.5846242e.chunk.js.map": "/dogs/static/js/2.5846242e.chunk.js.map",
+    "index.html": "/dogs/index.html",
+    "static/css/main.c5a17302.chunk.css.map": "/dogs/static/css/main.c5a17302.chunk.css.map",
+    "static/js/2.5846242e.chunk.js.LICENSE.txt": "/dogs/static/js/2.5846242e.chunk.js.LICENSE.txt",
+    "static/media/adicionar.9ab4633e.svg": "/dogs/static/media/adicionar.9ab4633e.svg",
+    "static/media/dogs.7db224df.svg": "/dogs/static/media/dogs.7db224df.svg",
+    "static/media/estatisticas.c828f8cf.svg": "/dogs/static/media/estatisticas.c828f8cf.svg",
+    "static/media/feed.3ea0ca1b.svg": "/dogs/static/media/feed.3ea0ca1b.svg",
+    "static/media/Login.module.css": "/dogs/static/media/login.07d71f5b.jpg",
+    "static/media/sair.259825de.svg": "/dogs/static/media/sair.259825de.svg",
+    "static/media/Header.module.css": "/dogs/static/media/usuario.cd5f6141.svg",
+    "static/media/FeedPhotosItem.module.css": "/dogs/static/media/visualizacao.2b7a1329.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bc80fa2.js",
+    "static/js/2.5846242e.chunk.js",
+    "static/css/main.c5a17302.chunk.css",
+    "static/js/main.77940e87.chunk.js"
+  ]
+}
